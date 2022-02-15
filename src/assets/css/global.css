@@ -1,0 +1,64 @@
+/* 阅读页背景色 */
+.bg-color__1 {
+  background-color: #F1F2F6;
+}
+
+.bg-color__2 {
+  background-color: #CFDFCE;
+}
+
+.bg-color__3 {
+  background-color: #CBDAF1;
+}
+
+.bg-color__4 {
+  background-color: #E9DDC0;
+}
+
+/* 工具栏背景色 */
+.toolbar-bg-color__1 {
+  background-color: #FDFDFD;
+}
+
+.toolbar-bg-color__2 {
+  background-color: #E1F2E0;
+}
+
+.toolbar-bg-color__3 {
+  background-color: #DFECFF;
+}
+
+.toolbar-bg-color__4 {
+  background-color: #F3EAD4;
+}
+
+/* 夜间模式 */
+.bg-color__night {
+  background-color: #262626;
+}
+
+.toolbar-bg-color__night {
+  background-color: #0C0C0C;
+}
+
+/* 夜间模式下文本的color */
+.reader-page .night-mode__text-color {
+  color: rgb(111, 111, 111)
+}
+
+/* 正文间距 */
+.text__lineHeight_1 {
+  line-height: 114px;
+}
+
+.text__lineHeight_2 {
+  line-height: 94px;
+}
+
+.text__lineHeight_3 {
+  line-height: 74px;
+}
+
+.text__lineHeight_4 {
+  line-height: 84px;
+}
